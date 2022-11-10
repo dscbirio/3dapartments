@@ -1,0 +1,10 @@
+{
+  "plugin":{
+    "slug": "search-3d-apartments",
+    "name": "Search 3D Apartments"
+  },
+  "filesToCopy": [
+    "readme.txt",
+    "license"
+  ]
+}
